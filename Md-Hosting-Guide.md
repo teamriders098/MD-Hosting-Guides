@@ -57,7 +57,7 @@ Sign in/up to Heroku and MongoDB
 6. After it builds, go to "Resources" and search "Heroku Postgres" click on it then new pop up will appear "Submit Order Form" <- click on it and the go to "Open App".<br>
 7. A QR Code Will Show Up.<br>
 8. Open WhatsApp on your phone -> Click on the 3 Dots on the top Right -> Click on WhatsApp Web -> Click on "Link a Device" and scan the QR from the previous step.<br>
-9. Your heroku app can fall asleep so for keeping it awaken add your app to ([Kaffeine](https://kaffeine.herokuapp.com/))<br>. It pings your Heroku app every 30 minutes so it will never go to sleep.<br>
+9. Your heroku app can fall asleep so for keeping it awaken add your app to ([Kaffeine](https://kaffeine.herokuapp.com/)).<br> It pings your Heroku app every 30 minutes so it will never go to sleep.<br>
 </details>
 
 
